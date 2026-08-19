@@ -32,7 +32,7 @@ This portfolio showcases my skills, education, certification, work experience, a
 
 A responsive scientific calculator built using HTML, CSS, and JavaScript.
 
-**Technologies:**
+**Technologies: **
 - HTML5
 - CSS3
 - JavaScript
@@ -41,15 +41,15 @@ A responsive scientific calculator built using HTML, CSS, and JavaScript.
 
 A fictional responsive zoo website created to demonstrate foundational front-end development and web design skills.
 
-**Technologies:**
+**Technologies: **
 - HTML5
 - CSS3
 
-### 3. Compukids Website
+### 3. Compu kids Website
 
 An educational website designed to introduce children to basic computing concepts using simple explanations, visual examples, and responsive web design.
 
-**Technologies:**
+**Technologies: **
 - HTML5
 - CSS3
 
@@ -60,7 +60,7 @@ An educational website designed to introduce children to basic computing concept
 ## Work Experience
 
 ### Teaching
-Developed communication, presentation, organisation, and problem-solving skills through teaching and supporting learners.
+Developed communication, presentation, organization, and problem-solving skills through teaching and supporting learners.
 
 ### Customer Service
 Developed communication and interpersonal skills through assisting customers, understanding their needs, and resolving problems professionally.
@@ -71,11 +71,11 @@ Details about my qualification and education will be added here.
 
 ## Contact
 
-**Email:** Add your email here
+**Email: ** revelationbaloyi7@gmail.com
 
-**GitHub:** https://github.com/Rev1994-bot
+**GitHub: ** https://github.com/Rev1994-bot
 
-**LinkedIn:** Add your LinkedIn profile here
+**LinkedIn: **https//www.linkedin.com/in/revelation-baloyi-88a003387
 
 ## Portfolio
 
